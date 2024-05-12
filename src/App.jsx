@@ -32,6 +32,7 @@ function App() {
           ))}
         </div>
       </div>
+
       <button className="reset" onClick={() => resetClients()}>
         Reset
       </button>
